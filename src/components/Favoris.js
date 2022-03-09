@@ -18,7 +18,7 @@ const Favoris = () => {
                 ))}
 
             </div>   
-            ):(<h2 className='no-movies'>no movies in your favorite List</h2>)}
+            ):(<h2 className='no-movies'>no movies in your favorite List to watch</h2>)}
             
             
 
